@@ -7,7 +7,7 @@ export default function Hero({}: Props) {
   return (
     <div>
         <Typewriter 
-        words= {["Hello, this is a coding tutorial", "I am just messing around with the code"]}
+        words= {["Hello, this is a coding tutorial.", "I am just messing around with the code.", "Coding is fun"]}
         loop= {0}
         cursor
         cursorStyle= "_"
